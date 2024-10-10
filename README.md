@@ -16,8 +16,8 @@ fix
 `yarn biome lint --write ./src`
 
 ## format & lint
-check
+check  
 `yarn biome check ./src`
 
-fix
+fix  
 `yarn biome check --write ./src`
